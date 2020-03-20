@@ -1,5 +1,7 @@
 # Matura z Informatyki 2020
 
+[![License: CC BY-NC 3.0](https://img.shields.io/badge/License-CC%20BY--NC%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/3.0/)
+
 W tym repozytorium będą się sukcesywnie pojawiać moje notatki (contributions mile widziane) z przygotowań do matury z informatyki.
 
 Ponadto poniżej znajdziesz linki do stron oraz książek pomocnych w nauce.
@@ -107,3 +109,6 @@ Zadania z zakresu algorytmiki z automatycznym ocenianiem
 - https://exercism.io/tracks
 - https://leetcode.com/
 
+## Licencja
+
+Projekt dostępny jest na licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0 Unported (CC BY-SA 3.0)
